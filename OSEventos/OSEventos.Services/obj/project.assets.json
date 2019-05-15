@@ -3374,11 +3374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj",
       "projectName": "OSEventos.Services",
-      "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Services\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3397,14 +3397,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj"
+            "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj"
             },
-            "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj"
+            "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj"
             },
-            "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj"
+            "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj"
             }
           }
         }

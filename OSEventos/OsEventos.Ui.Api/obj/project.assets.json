@@ -13528,11 +13528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj",
       "projectName": "OsEventos.Ui.Api",
-      "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OsEventos.Ui.Api\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OsEventos.Ui.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13551,11 +13551,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj"
+            "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj"
             },
-            "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj": {
-              "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj"
+            "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj": {
+              "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj"
             }
           }
         }

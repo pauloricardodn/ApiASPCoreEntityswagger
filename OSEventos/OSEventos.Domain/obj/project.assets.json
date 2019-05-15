@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
       "projectName": "OSEventos.Domain",
-      "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

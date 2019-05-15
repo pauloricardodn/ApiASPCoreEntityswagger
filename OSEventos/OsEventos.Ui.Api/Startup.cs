@@ -127,6 +127,7 @@ namespace OsEventos.Ui.Api
             services.AddSingleton<IConfiguration>(Configuration);
             InjectionDependency.InjecaoDependenciaRepositorios(ref services);
             InjectionDependency.InjecaoDependenciaServicos(ref services);
+            InjectionDependency.InjecaoDependenciaConverter(ref services);
 
             var signingConfigurations = new SigningConfigurations();
             services.AddSingleton(signingConfigurations);

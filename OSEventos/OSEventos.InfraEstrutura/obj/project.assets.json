@@ -5564,11 +5564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj",
       "projectName": "OSEventos.InfraEstrutura",
-      "projectPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulo\\Desktop\\OSEventos\\OSEventos.InfraEstrutura\\obj\\",
+      "outputPath": "C:\\Users\\Paulo\\Documents\\ApiASPCoreEntityswagger\\OSEventos\\OSEventos.InfraEstrutura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
