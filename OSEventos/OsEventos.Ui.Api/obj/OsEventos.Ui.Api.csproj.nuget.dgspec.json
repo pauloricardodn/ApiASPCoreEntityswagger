@@ -1,0 +1,435 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Curia\\OSEventos\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj",
+        "projectName": "OSEventos.DataVO",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.DataVO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
+        "projectName": "OSEventos.Domain",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj",
+        "projectName": "OSEventos.InfraEstrutura",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.InfraEstrutura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Rijndael256.Core": {
+              "target": "Package",
+              "version": "[3.2.5, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.6.0-preview5.19224.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj",
+        "projectName": "OSEventos.Repository",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FirebirdSql.EntityFrameworkCore.Firebird": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj",
+        "projectName": "OSEventos.Services",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.DataVO\\OSEventos.DataVO.csproj"
+              },
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj"
+              },
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Repository\\OSEventos.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Curia\\OSEventos\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj",
+        "projectName": "OsEventos.Ui.Api",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OsEventos.Ui.Api\\OsEventos.Ui.Api.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OsEventos.Ui.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.InfraEstrutura\\OSEventos.InfraEstrutura.csproj"
+              },
+              "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj": {
+                "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Services\\OSEventos.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "EntityFrameworkCore.FirebirdSql": {
+              "target": "Package",
+              "version": "[2.1.2.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.WebApiCompatShim": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.4.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

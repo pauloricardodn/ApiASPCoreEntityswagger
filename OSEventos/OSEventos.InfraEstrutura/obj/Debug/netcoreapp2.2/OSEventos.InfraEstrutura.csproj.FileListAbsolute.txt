@@ -1,0 +1,9 @@
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\obj\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\obj\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\obj\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\bin\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.deps.json
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\bin\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.dll
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\obj\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.csprojAssemblyReference.cache
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\bin\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.pdb
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\obj\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.dll
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.InfraEstrutura\obj\Debug\netcoreapp2.2\OSEventos.InfraEstrutura.pdb

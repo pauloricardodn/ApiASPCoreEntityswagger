@@ -1,0 +1,17 @@
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\bin\Debug\netcoreapp2.2\OSEventos.Domain.deps.json
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\bin\Debug\netcoreapp2.2\OSEventos.Domain.dll
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\bin\Debug\netcoreapp2.2\OSEventos.Domain.pdb
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.csprojAssemblyReference.cache
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.AssemblyInfoInputs.cache
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.AssemblyInfo.cs
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.dll
+C:\Curia\OSEventos\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.pdb
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\bin\Debug\netcoreapp2.2\OSEventos.Domain.deps.json
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\bin\Debug\netcoreapp2.2\OSEventos.Domain.dll
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\bin\Debug\netcoreapp2.2\OSEventos.Domain.pdb
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.dll
+C:\Users\Paulo\Desktop\OSEventos\OSEventos.Domain\obj\Debug\netcoreapp2.2\OSEventos.Domain.pdb

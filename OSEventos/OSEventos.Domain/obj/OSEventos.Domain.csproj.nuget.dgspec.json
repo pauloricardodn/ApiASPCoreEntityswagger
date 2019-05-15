@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
+        "projectName": "OSEventos.Domain",
+        "projectPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\OSEventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\Paulo Ricardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Curia\\OSEventos\\OSEventos\\OSEventos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Paulo Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net Trial": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
